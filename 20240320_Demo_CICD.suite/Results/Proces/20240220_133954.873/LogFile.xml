@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="Proces_script" package="20240320_Demo_CICD.suite" timestamp="2024-02-20 13:39:54.873 +0900"
+ tests="1"  failures="0" errors="0" time="0.178009">
+  <properties>
+   <property name="RunDate" value="2024-02-20 13:39:54.873 +0900"/>
+   <property name="Status" value="Success"/>
+  </properties>
+  <testcase name="Proces.script" assertions="1" status="success"  time="0.168628">
+  </testcase>
+ </testsuite>
+</testsuites>

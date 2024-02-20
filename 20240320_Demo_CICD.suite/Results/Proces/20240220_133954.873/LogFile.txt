@@ -1,0 +1,4 @@
+﻿2024-02-20 13:39:54.877 +0900	START		Running Proces.script
+2024-02-20 13:39:54.985 +0900	Connect		AWS:(null)	1	on_proces	Proces.script
+2024-02-20 13:39:55.052 +0900	EndTestCase		(Duration:"0.168628", Errors:"0", Exceptions:"0", StartTime:"2024-02-20 13:39:54 +0900", Successes:"1", TestCase:"Proces.script", Warnings:"0")
+2024-02-20 13:39:55.077 +0900	SUCCESS		Execution Time 0:00:00 Proces.script
