@@ -1,6 +1,0 @@
-﻿connect "AWS"
-Typetext windowsKey, "r" 
-
-Typetext "microsoft-edge:",Return 
-
-TypeText ControlKey,"w" 
