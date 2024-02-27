@@ -1,0 +1,7 @@
+﻿2024-02-21 17:09:24.411 +0900	START		Running Process_1.script
+2024-02-21 17:09:28.426 +0900	Connect		AWS:(null)	1	on_process_1	Process_1.script
+2024-02-21 17:09:28.451 +0900	typetext		[windowsKey]r	2	on_process_1	Process_1.script
+2024-02-21 17:09:29.353 +0900	typetext		microsoft-edge:[return]	4	on_process_1	Process_1.script
+2024-02-21 17:09:30.079 +0900	typetext		[controlKey]w	6	on_process_1	Process_1.script
+2024-02-21 17:09:30.092 +0900	EndTestCase		(Duration:"5.676132", Errors:"0", Exceptions:"0", StartTime:"2024-02-21 17:09:24 +0900", Successes:"1", TestCase:"Process_1.script", Warnings:"0")
+2024-02-21 17:09:30.100 +0900	SUCCESS		Execution Time 0:00:05 Process_1.script

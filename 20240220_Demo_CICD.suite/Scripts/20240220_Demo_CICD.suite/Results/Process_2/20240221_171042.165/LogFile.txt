@@ -1,0 +1,4 @@
+﻿2024-02-21 17:10:42.169 +0900	START		Running Process_2.script
+2024-02-21 17:10:52.891 +0900	click	(TEXT:"Sports")	at (456, 16)	1	on_process_2	Process_2.script
+2024-02-21 17:10:52.900 +0900	EndTestCase		(Duration:"10.728995", Errors:"0", Exceptions:"0", StartTime:"2024-02-21 17:10:42 +0900", Successes:"1", TestCase:"Process_2.script", Warnings:"0")
+2024-02-21 17:10:52.912 +0900	SUCCESS		Execution Time 0:00:10 Process_2.script

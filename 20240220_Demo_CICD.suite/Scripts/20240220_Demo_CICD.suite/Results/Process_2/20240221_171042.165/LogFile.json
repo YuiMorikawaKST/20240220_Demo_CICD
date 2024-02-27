@@ -1,0 +1,29 @@
+{
+  "entries" : [
+    {
+      "identifier" : "START",
+      "message" : "Running Process_2.script",
+      "timestamp" : "2024-02-21 17:10:42.169 +0900"
+    },
+    {
+      "handlerName" : "on_process_2",
+      "message" : "at (456, 16)",
+      "identifier" : "click",
+      "image" : "(TEXT:\"Sports\")",
+      "handlerLine" : 1,
+      "timestamp" : "2024-02-21 17:10:52.891 +0900",
+      "scriptName" : "Process_2.script"
+    },
+    {
+      "identifier" : "EndTestCase",
+      "message" : "(Duration:\"10.728995\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2024-02-21 17:10:42 +0900\", Successes:\"1\", TestCase:\"Process_2.script\", Warnings:\"0\")",
+      "timestamp" : "2024-02-21 17:10:52.900 +0900"
+    },
+    {
+      "identifier" : "SUCCESS",
+      "message" : "Execution Time 0:00:10 Process_2.script",
+      "timestamp" : "2024-02-21 17:10:52.912 +0900"
+    }
+  ],
+  "createdTimestamp" : "2024-02-21 17:10:42.171 +0900"
+}

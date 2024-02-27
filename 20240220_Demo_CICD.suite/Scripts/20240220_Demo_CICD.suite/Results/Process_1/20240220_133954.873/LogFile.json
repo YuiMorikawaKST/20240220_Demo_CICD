@@ -1,0 +1,28 @@
+{
+  "entries" : [
+    {
+      "identifier" : "START",
+      "message" : "Running Proces.script",
+      "timestamp" : "2024-02-20 13:39:54.877 +0900"
+    },
+    {
+      "handlerName" : "on_proces",
+      "message" : "AWS:(null)",
+      "timestamp" : "2024-02-20 13:39:54.985 +0900",
+      "identifier" : "Connect",
+      "scriptName" : "Proces.script",
+      "handlerLine" : 1
+    },
+    {
+      "identifier" : "EndTestCase",
+      "message" : "(Duration:\"0.168628\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2024-02-20 13:39:54 +0900\", Successes:\"1\", TestCase:\"Proces.script\", Warnings:\"0\")",
+      "timestamp" : "2024-02-20 13:39:55.052 +0900"
+    },
+    {
+      "identifier" : "SUCCESS",
+      "message" : "Execution Time 0:00:00 Proces.script",
+      "timestamp" : "2024-02-20 13:39:55.077 +0900"
+    }
+  ],
+  "createdTimestamp" : "2024-02-20 13:39:54.882 +0900"
+}

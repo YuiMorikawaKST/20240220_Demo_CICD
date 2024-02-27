@@ -1,0 +1,52 @@
+{
+  "entries" : [
+    {
+      "identifier" : "START",
+      "message" : "Running Process_1.script",
+      "timestamp" : "2024-02-21 17:10:29.137 +0900"
+    },
+    {
+      "handlerName" : "on_process_1",
+      "message" : "AWS:(null)",
+      "timestamp" : "2024-02-21 17:10:29.187 +0900",
+      "identifier" : "Connect",
+      "scriptName" : "Process_1.script",
+      "handlerLine" : 1
+    },
+    {
+      "handlerName" : "on_process_1",
+      "message" : "[windowsKey]r",
+      "timestamp" : "2024-02-21 17:10:34.214 +0900",
+      "identifier" : "typetext",
+      "scriptName" : "Process_1.script",
+      "handlerLine" : 5
+    },
+    {
+      "handlerName" : "on_process_1",
+      "message" : "microsoft-edge:[return]",
+      "timestamp" : "2024-02-21 17:10:35.129 +0900",
+      "identifier" : "typetext",
+      "scriptName" : "Process_1.script",
+      "handlerLine" : 7
+    },
+    {
+      "handlerName" : "on_process_1",
+      "message" : "[controlKey]w",
+      "timestamp" : "2024-02-21 17:10:35.876 +0900",
+      "identifier" : "typetext",
+      "scriptName" : "Process_1.script",
+      "handlerLine" : 9
+    },
+    {
+      "identifier" : "EndTestCase",
+      "message" : "(Duration:\"6.745095\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2024-02-21 17:10:29 +0900\", Successes:\"1\", TestCase:\"Process_1.script\", Warnings:\"0\")",
+      "timestamp" : "2024-02-21 17:10:35.885 +0900"
+    },
+    {
+      "identifier" : "SUCCESS",
+      "message" : "Execution Time 0:00:06 Process_1.script",
+      "timestamp" : "2024-02-21 17:10:35.892 +0900"
+    }
+  ],
+  "createdTimestamp" : "2024-02-21 17:10:29.139 +0900"
+}

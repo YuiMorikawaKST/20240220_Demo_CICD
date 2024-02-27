@@ -1,0 +1,9 @@
+﻿connect "AWS"
+
+wait 5
+
+Typetext windowsKey, "r" 
+
+Typetext "microsoft-edge:",Return 
+
+TypeText ControlKey,"w" 
