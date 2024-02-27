@@ -1,6 +1,6 @@
 name: "CICD"
 
-on: push
+on: workflow_dispatch
 
 jobs:
   Run-DAI-Test-Configuration:
