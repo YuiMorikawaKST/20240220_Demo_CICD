@@ -1,4 +1,4 @@
-name: "CICD_LocalSuite"
+name: "CICD_ForDemo"
 
 on: workflow_dispatch
 
