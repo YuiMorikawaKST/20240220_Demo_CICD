@@ -1,6 +1,6 @@
 name: "CICD_ForDemo"
 
-# on: workflow_dispatch
+on: workflow_dispatch
 
 jobs:
   Run-DAI-Test-Configuration:
