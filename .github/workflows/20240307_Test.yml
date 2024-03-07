@@ -1,5 +1,7 @@
 name: "CICD_ForDemo_ToAzure"
 
+on: workflow_dispatch
+
 jobs:
   Run-DAI-Test-Configuration:
     strategy: # Optional configuration by using matrix strategy
